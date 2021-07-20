@@ -10,7 +10,7 @@ With Magento 2 Social Follow Buttons, you can display floating buttons with exte
 
 * Ability to display social follow buttons on any page of your site
 * Support up to eight most popular social networks, such as Facebook, Twitter, Pinterest, Instagram, LinkedIn, YouTube, Google+, Flickr
-* Ability to display  the follow button at left, right, and footer of the page
+* Ability to display  follow buttons at left, right, and footer of the page
 * Configure the social follow buttons from the backend
 * Mobile-friendly
 * Support multiple-stores
